@@ -1,0 +1,16 @@
+2021-05-11 15:53:55,157 - DEBUG - start of program
+2021-05-11 15:53:55,157 - DEBUG - first no : 10
+2021-05-11 15:53:55,157 - DEBUG - second no : 76
+2021-05-11 15:53:55,157 - DEBUG - Sum of 2 numbers : 86
+2021-05-11 15:53:58,923 - DEBUG - start of program
+2021-05-11 15:53:58,923 - DEBUG - first no : 10
+2021-05-11 15:53:58,923 - DEBUG - second no : 76
+2021-05-11 15:53:58,923 - DEBUG - Sum of 2 numbers : 86
+2021-05-11 15:53:59,798 - DEBUG - start of program
+2021-05-11 15:53:59,798 - DEBUG - first no : 10
+2021-05-11 15:53:59,798 - DEBUG - second no : 76
+2021-05-11 15:53:59,798 - DEBUG - Sum of 2 numbers : 86
+2021-05-11 15:54:00,074 - DEBUG - start of program
+2021-05-11 15:54:00,074 - DEBUG - first no : 10
+2021-05-11 15:54:00,074 - DEBUG - second no : 76
+2021-05-11 15:54:00,074 - DEBUG - Sum of 2 numbers : 86
